@@ -1,6 +1,6 @@
 # Capstone
 
-This analysis was carried out using Logistic Regression, Decision Tree and Naive Bayes models and cr0ss validation was also performed on the dataset for all the models listed.
+This analysis was carried out using Logistic Regression, Decision Tree and Naive Bayes models and cross validation was also performed on the dataset for all the models listed.
 
 Data Reprocessing was carried out to handle missing data, encode variables with Label encocoder and cate numerical features using StandardScaler before the training models and evaluations were carried out. 
 
